@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/1/1.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/1/12.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/2/2.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/2/2_2.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/2/2_4.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/2/2_5.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/2/2_3.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/AG/XCGG6RLXKOSPRAYRWYYVUD.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/3/M_ColorToggle.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/3/MI_ColorToggle.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/3/M_ColorToggle_Inst.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YY/823Q99WLOTHH7FUAQ9ALIF.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/8J/FBDMMOYSO7S2O2WJCG8E9G.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/R4/VII28OJADEO2KDBZYR0TEO.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3V/DAVISE1JN4BZ1L8A8EQAFQ.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JB/9V1TX2QTKE4DH4TOG5XLR7.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/U2/IP0Y74I28AUDLE5BVXD786.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/4/M_LuzAlerta.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/4/M_Alerta.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/1.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/material/12.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HE/PYFW8BPPDCGC1S66RTG48Y.uasset"
+			]
+		}
+	]
+}
